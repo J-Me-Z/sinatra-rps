@@ -28,4 +28,6 @@ group :test do
   gem 'webmock'
   gem 'webdrivers'
   gem 'i18n'
+  gem "activesupport"
+gem "awesome_print"
 end
